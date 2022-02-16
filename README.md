@@ -1,4 +1,4 @@
-# Relvise - Educational project 
+# Educational project 
 
 Technology
 html
