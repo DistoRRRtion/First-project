@@ -1,5 +1,5 @@
 # Educational project 
 
-Technology
+Technology:
 html
 css
